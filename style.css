@@ -1,0 +1,44 @@
+.home{
+    padding-top: 70px;
+}
+
+.gallery{
+    padding-top: 10px;
+}
+
+body{
+    color:green;  
+    
+}
+.jumbotron{
+    color: #2c3e50;
+    background: #ecf0f1
+}
+
+.pink{
+    background: pink;
+    border: 1px solid red;
+}
+
+.navli{
+    padding-left: 7px;
+}
+
+.imagegalleryh1{
+    text-align: center;
+
+}
+.img-thumbnail{
+    height: 250px;
+    width: 300px;
+}
+.picture{
+ padding-bottom: 10px;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  
